@@ -4,7 +4,5 @@ class datatype {
         System.out.println("int max: "+ Integer.MAX_VALUE);
         System.out.println("int max: "+ Integer.BYTES);
         System.out.println("int max: "+ Integer.TYPE);
-        System.out.println("int max: "+ float.class);
-
     }
 }

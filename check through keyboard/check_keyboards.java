@@ -9,6 +9,6 @@ class xyz
         String name;
         System.out.println("give your name");
         name = sc.nextLine();
-        System.out.println("hi "+name);
+        System.out.println("Hiii "+name);
     }
 }

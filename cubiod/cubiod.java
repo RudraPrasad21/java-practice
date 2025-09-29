@@ -9,9 +9,9 @@ public class cubiod {
         length= sc.nextInt(); breadth=sc.nextInt();
         height=sc.nextInt();
         volume = length*breadth*height;
-        System.out.println(volume);
+        System.out.println("Volume "+volume);
 
-        System.out.println("total Area ");
+        System.out.println("Total Area ");
         int front_back = length*height;
         int right_left = breadth*height;
         int top_bottom = length*breadth;

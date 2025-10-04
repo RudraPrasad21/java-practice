@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Quadratic_equation/Quadratic_equation.iml" filepath="$PROJECT_DIR$/Quadratic_equation/Quadratic_equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/area of a tringle/area of a tringle.iml" filepath="$PROJECT_DIR$/area of a tringle/area of a tringle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitwise/bitwise.iml" filepath="$PROJECT_DIR$/bitwise/bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cubiod/cubiod.iml" filepath="$PROJECT_DIR$/cubiod/cubiod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inpreter/inpreter.iml" filepath="$PROJECT_DIR$/inpreter/inpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-practice.iml" filepath="$PROJECT_DIR$/java-practice.iml" />
+    </modules>
+  </component>
+</project>
